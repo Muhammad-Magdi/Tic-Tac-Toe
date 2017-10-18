@@ -6,7 +6,6 @@
 package tic.tac.toe;
 
 /**
- *
  * @author muhammad
  */
 
